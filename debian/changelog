@@ -1,3 +1,9 @@
+kglobalaccel (5.103.0-1deepin2) unstable; urgency=medium
+
+  * chore: bump version to 5.103.0-1deepin2
+
+ -- justforlxz <justforlxz@gmail.com>  Tue, 02 Jun 2026 13:55:43 +0800
+
 kglobalaccel (5.103.0-1deepin1) unstable; urgency=medium
 
   * remove plasma-kglobalaccel.service.

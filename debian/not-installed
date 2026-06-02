@@ -1,1 +1,2 @@
 usr/lib/systemd/user/plasma-kglobalaccel.service
+usr/share/dbus-1/services/org.kde.kglobalaccel.service
